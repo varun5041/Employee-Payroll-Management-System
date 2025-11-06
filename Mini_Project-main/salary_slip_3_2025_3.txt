@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 3
+Name: jvhv
+Designation: ghvhvhvh
+Month/Year: 3/2025
+
+Gross Salary: 736102.00
+Total Deductions: 214910.44
+Net Salary: 521191.56
+
+Generated at: 2025-11-06 13:48:55.0

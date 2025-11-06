@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 2
+Name: sachin
+Designation: gjgjgjgjggjgb
+Month/Year: 5/2025
+
+Gross Salary: 0.00
+Total Deductions: 0.00
+Net Salary: 0.00
+
+Generated at: 2025-11-06 11:29:58.0

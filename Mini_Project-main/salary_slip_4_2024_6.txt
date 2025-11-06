@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 4
+Name: Gaurav
+Designation: Video Editor
+Month/Year: 6/2024
+
+Gross Salary: 66000.00
+Total Deductions: 8850.00
+Net Salary: 57150.00
+
+Generated at: 2025-11-06 14:15:53.0

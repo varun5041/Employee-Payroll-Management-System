@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 1
+Name: varun
+Designation: Software Engineer
+Month/Year: 7/2024
+
+Gross Salary: 180000.00
+Total Deductions: 34250.00
+Net Salary: 145750.00
+
+Generated at: 2025-11-06 11:22:38.0

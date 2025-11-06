@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 6
+Name: Sahil
+Designation: Content Creator
+Month/Year: 6/2024
+
+Gross Salary: 68000.00
+Total Deductions: 8050.00
+Net Salary: 59950.00
+
+Generated at: 2025-11-06 14:26:15.0
